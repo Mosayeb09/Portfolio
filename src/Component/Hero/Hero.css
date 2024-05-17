@@ -1,0 +1,45 @@
+.hero-container{
+    width: 100%;
+    min-height: 100vh;
+    /* background:linear-gradient(rgb(8,0,58,0.7),rgb(8,0,58,0.7)), url('../../edusity_assets/hero.png'); */
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+}
+.hero-text{
+    /* text-align: center; */
+    max-width: 800px;
+    padding:0px 80px;
+
+}
+.dev{
+    color: burlywood;
+}
+.hero-text h1{
+    font-size: 40px;
+    font-weight: 600;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.hero-text p {
+    max-width: 700;
+    margin: 10px auto 20px;
+    line-height: 1.4;
+    margin-top: 20px;
+}
+.social-media{
+    display: flex;
+    font-size: 40px;
+    gap: 10px;
+}
+.btn{
+    background-color: aqua;
+    color: #fff;
+    text-align: center;
+    border: 40px;
+    border-radius: 50%;
+    
+}
