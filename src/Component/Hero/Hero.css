@@ -1,6 +1,6 @@
 .hero-container{
     width: 100%;
-    min-height: 100vh;
+    min-height: 90vh;
     /* background:linear-gradient(rgb(8,0,58,0.7),rgb(8,0,58,0.7)), url('../../edusity_assets/hero.png'); */
     background-size: cover;
     background-position: center;
@@ -16,7 +16,7 @@
 
 }
 .dev{
-    color: burlywood;
+    color:#538d55;
 }
 .hero-text h1{
     font-size: 40px;
@@ -35,11 +35,27 @@
     font-size: 40px;
     gap: 10px;
 }
+.social-media a {
+    border: 6px solid #213c21 ;
+    
+    width: 50px; 
+    height: 50px; 
+    border-radius: 50%; 
+}
 .btn{
-    background-color: aqua;
-    color: #fff;
-    text-align: center;
-    border: 40px;
-    border-radius: 50%;
+    
+    background-color: #538d55; 
+    border: none; 
+    color: white; 
+    padding: 15px 32px; 
+    text-align: center; 
+    text-decoration: none; 
+    display: inline-block; 
+    font-size: 16px; 
+    margin: 25px 10px; 
+    cursor: pointer; 
+    border-radius: 20px; 
+    transition: background-color 0.3s ease; 
     
 }
+    
