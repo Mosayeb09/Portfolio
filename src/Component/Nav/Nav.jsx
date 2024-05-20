@@ -20,6 +20,8 @@ const Nav = () => {
              <ul>
                 <li><Link to={'home'} >Home</Link></li>
                 <li><Link to={'About'}>About</Link> </li>
+                <li><Link to={'skill'}>Skill</Link> </li>
+
                 <li> <Link to={'portfolio'}>Portfolio</Link></li>
                 <li> <Link to={'contact'}>Contact</Link></li>
                 <li></li>

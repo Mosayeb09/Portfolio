@@ -1,4 +1,5 @@
 import About from "./Component/About/About";
+import Footer from "./Component/Footer/Footer";
 import Hero from "./Component/Hero/Hero";
 import Nav from "./Component/Nav/Nav";
 import Portfolio from "./Component/Portfolio/Portfolio";
@@ -13,6 +14,7 @@ const App = () => {
        <div>
         <About></About>
         <Portfolio></Portfolio>
+        <Footer></Footer>
        </div>
     </div>
   );
