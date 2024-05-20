@@ -9,6 +9,7 @@
     align-items: center;
     /* justify-content: center; */
     gap: 40px;
+    padding-left: 10%;
 }
 .hero-text{
     /* text-align: center; */
@@ -24,6 +25,9 @@
     font-weight: 600;
     margin-top: 20px;
     margin-bottom: 20px;
+}
+.hero-text h3{
+    font-size:30px ;
 }
 .hero-text p {
     max-width: 700;
@@ -62,10 +66,10 @@
 .hero-img{
     /* width: 40%; */
     flex-basis: 40%;
-    margin-top: 100px;
+    margin-top: 70px;
 }
 .hero-img{
-    width: 600px;
+    width: 500px;
     border-radius: 10px;
 }
     

@@ -25,7 +25,7 @@ const Nav = () => {
                 <li></li>
             </ul>
   
-            <img src={menu_icon} alt="" />
+            {/* <img src={menu_icon} alt="" /> */}
    
 
                 

@@ -5,6 +5,7 @@
     justify-content: space-between;
     width: 90%;
     gap: 150px;
+    padding-left: 10%;
 
 }
 .about-left {
@@ -13,7 +14,7 @@
     /* width: 40%; */
     /* position: relative; */
     width: 700px;
-    margin-left: 130px;
+    /* margin-left: 130px; */
     
    
 

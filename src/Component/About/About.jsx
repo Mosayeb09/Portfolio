@@ -14,7 +14,7 @@ const About = () => {
                         <h2>Frontend Developer</h2>
 
                         <p>Enthusiastic entry-level Web Developer with a strong skill set, innovative mindset, and proficiency
-                            in web development languages and frameworks. Seeking a role within a dynamic team to drive
+                            in web development <br /> languages and frameworks. Seeking a role within a dynamic team to drive
                             advancements in web development and foster professional growth.</p>
                             <button className="btn">Read More</button>
 
