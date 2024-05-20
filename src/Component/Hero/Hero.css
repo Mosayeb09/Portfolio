@@ -8,6 +8,7 @@
     display: flex;
     align-items: center;
     /* justify-content: center; */
+    gap: 40px;
 }
 .hero-text{
     /* text-align: center; */
@@ -57,5 +58,14 @@
     border-radius: 20px; 
     transition: background-color 0.3s ease; 
     
+}
+.hero-img{
+    /* width: 40%; */
+    flex-basis: 40%;
+    margin-top: 100px;
+}
+.hero-img{
+    width: 600px;
+    border-radius: 10px;
 }
     

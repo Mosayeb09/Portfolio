@@ -3,6 +3,7 @@ import { FaFacebook } from "react-icons/fa";
 import { FaSquareInstagram } from "react-icons/fa6";
 import { RiLinkedinBoxFill } from "react-icons/ri";
 import { BsGithub } from "react-icons/bs";
+import hero_img from '../../../public/Portfolio_assets/hero-pfl.png'
 
 const Hero = () => {
     return (
@@ -24,6 +25,8 @@ const Hero = () => {
                 <a href=""><button className='btn'>Download Cv</button></a>
         </div>
         <div className="hero-img">
+            <img src={hero_img} alt="" 
+            className='hero-img'/>
 
         </div>
 
