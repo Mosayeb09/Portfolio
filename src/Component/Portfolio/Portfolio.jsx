@@ -6,7 +6,8 @@ import { HiViewGridAdd } from "react-icons/hi";
 
 const Portfolio = () => {
     return (
-       <div className='project_title'>
+       
+        <div className='project_title'>
         <h3>Latest <span className='project_heading'>Projects</span></h3>
          <div className='programs'>
             
@@ -40,6 +41,7 @@ const Portfolio = () => {
             
         </div>
        </div>
+       
     );
 };
 
