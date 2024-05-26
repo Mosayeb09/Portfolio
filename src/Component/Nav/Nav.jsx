@@ -1,7 +1,7 @@
 import { Link } from 'react-scroll';
 import './Nav.css'
 import { useEffect, useState } from 'react';
-import menu_icon from '../../../public/Portfolio_assets/menu-icon.png'
+// import menu_icon from '../../../public/Portfolio_assets/menu-icon.png'
 
 
 const Nav = () => {
